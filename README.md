@@ -1,2 +1,2 @@
-# project-20
-project 20 using visual code editor
+# p5.play-boilerplate
+Boiler plate for p5.play
